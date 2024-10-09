@@ -1,6 +1,6 @@
 # Ex03 Time Table
 ### Date:
-### Name:Loshini.G
+### Name:Loshini.G 
 ### Register Number:212223220051
 ### Department:IT
 
